@@ -116,4 +116,4 @@ client.on('message', message => {
 });
 
 
-client.login('NzUyOTc2NzAyMzIxNDU5MjAz.X1feMw.3OnkQJ6bZ072F_fk4zoBibmNkgY');
+client.login('TOKEN HERE');
